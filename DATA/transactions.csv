@@ -1,0 +1,14 @@
+date,description,category,type,amount,payment_method,notes
+2026-06-01,Salary credited,Income,income,55000,Bank Transfer,Monthly salary
+2026-06-02,Grocery shopping,Food,expense,2450,UPI,Monthly groceries
+2026-06-03,Electricity bill,Utilities,expense,1800,Net Banking,June bill
+2026-06-05,Metro recharge,Transport,expense,500,UPI,Travel card top-up
+2026-06-07,Freelance project,Income,income,12000,Bank Transfer,Website work
+2026-06-09,Mobile recharge,Utilities,expense,399,UPI,Prepaid plan
+2026-06-10,Cafe visit,Food,expense,650,Credit Card,Snacks and coffee
+2026-06-12,Rent payment,Housing,expense,15000,Bank Transfer,Monthly rent
+2026-06-15,Medicine purchase,Health,expense,780,Cash,Pharmacy
+2026-06-18,Online course,Education,expense,2200,Debit Card,Skill learning
+2026-06-21,Movie tickets,Entertainment,expense,900,UPI,Weekend outing
+2026-06-25,Investment SIP,Investment,expense,5000,Auto Debit,Mutual fund SIP
+2026-06-28,Cashback received,Income,income,250,Wallet,Shopping cashback
