@@ -27,6 +27,7 @@ SpendShield AI helps users understand spending patterns and detect basic suspici
 - Streamlit
 - SQLite
 - Rule-based transaction classification
+  
 
 ## Project Structure
 
